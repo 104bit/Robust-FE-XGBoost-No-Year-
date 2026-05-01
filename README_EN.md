@@ -1,5 +1,6 @@
 # F1 Pit Stop Prediction with XGBoost
 [English README](README_EN.md)
+
 This project aims to predict whether a Formula 1 car will make a pit stop on the next lap using race-related data. The model is built with the XGBoost algorithm, class imbalance is handled, and the `Year` variable is removed to reduce temporal overfitting.
 
 ## Project Objective
