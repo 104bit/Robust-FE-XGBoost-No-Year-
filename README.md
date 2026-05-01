@@ -1,4 +1,5 @@
 # Formula 1 Pit Stop Prediction
+[English README](README_EN.md)
 
 Bu proje, Formula 1 yarış verileri kullanılarak bir aracın bir sonraki turda pit stop yapıp yapmayacağını tahmin etmeyi amaçlar. Modelleme sürecinde XGBoost algoritması kullanılmıştır.
 
